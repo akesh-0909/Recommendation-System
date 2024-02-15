@@ -18,7 +18,7 @@ Welcome to the Electronics Recommendation System project! This system provides p
 Make sure you have the following installed:
 
 - Python (>=3.6)
-- Required Python packages: pandas, numpy, scikit-learn
+- Required Python packages: Streamlit
 
 ### Installation
 
